@@ -1,0 +1,4 @@
+<?php 
+$putanja = "/Edunova1/"
+
+ ?>
